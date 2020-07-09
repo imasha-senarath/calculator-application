@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0054ff</color>
+    <color name="colorPrimaryDark">#003dba</color>
+    <color name="colorAccent">#2f72fb</color>
+    <color name="white">#ffffff</color>
+    <color name="warningColor">#ff5858</color>
+    <color name="darkText">#525252</color>
+    <color name="gray">#dfdfdf</color>
+    <color name="black">#000000</color>
+
+    <color name="primaryTextColor">#292929</color>
+    <color name="highlightTextColor">#0054ff</color>
+    <color name="secondaryTextColor">#474646</color>
+    <color name="primaryButtonColor">#ffffff</color>
+    <color name="secondaryButtonColor">#dfdfdf</color>
+    <color name="primaryBackgroundColor">#ffffff</color>
+    <color name="secondaryBackgroundColor">#f6f6f6</color>
+    <color name="switchThumbColor">#e7e7e7</color>
+    <color name="switchTrackColor">#555555</color>
+    <color name="lineColor">#c5c5c5</color>
+</resources>
