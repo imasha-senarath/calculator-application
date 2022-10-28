@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("HH");
         String time = simpleDateFormat.format(new Date());
         if(Integer.parseInt(time) < 12) {
-            welcomeText.setText("Hey, Good Morning!");
+            welcomeText.setText("Hai, selamat pagi!");
         } else if (Integer.parseInt(time) >= 12 && Integer.parseInt(time) < 17) {
             welcomeText.setText("Hey, Good Afternoon!");
         } else {
